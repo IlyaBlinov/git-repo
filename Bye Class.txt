@@ -1,3 +1,0 @@
-printf("By Dog")
-printf("Bye cat")
-printf("Bye rat")

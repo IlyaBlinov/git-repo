@@ -1,6 +1,11 @@
-printf("Welcome;")
-printf("Welcome;")
-printf("Welcome;")
-printf("Welcome;")
-printf("Welcome;")
-printf("Welcome;")
+<<<<<<< HEAD
+printf("Welcome")
+printf("Welcome")
+printf("Welcome")
+printf("Welcome")
+printf("Welcome")
+printf("Welcome")
+printf("Welcome advanced")
+printf("Welcome not")
+
+

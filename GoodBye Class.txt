@@ -1,4 +1,0 @@
-printf("Goodbye world")
-printf("Goodbye world")
-printf("Goodbye world")
-printf("Goodbye world")
